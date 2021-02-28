@@ -13,6 +13,6 @@ Utiliza o padrão MVC E Twig.
 
 Recursos
 
-para ter acesso basta ter um server instalado na sua máquina com SGBD MYSQL, ou serviço que usa virtualização de nível de sistema operacional para entregar software em pacotes chamados contêineres.
+para ter acesso basta ter um server instalado na sua máquina com SGBD MYSQL, ou serviço que utiliza virtualização de nível de sistema operacional para entregar software em pacotes chamados contêineres.
 
 
