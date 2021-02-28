@@ -4,6 +4,8 @@ projeto de um sistema simples em php, javascript, utilizando SGBD MYSQL.
 
 Recursos utilizados
 
+Composer.
+
 Twitter Bootstrap - http://getbootstrap.com/ Roteamento com verificação de arquivos e validação Páginas Serviços. 
 
 Utiliza o padrão MVC E Twig.
