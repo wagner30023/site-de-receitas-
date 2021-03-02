@@ -1,10 +1,10 @@
 Site de receitas 
 
-projeto de um sistema simples em php, javascript, utilizando SGBD MYSQL. 
+projeto de um sistema simples em PHP 7.4.3, javascript, utilizando SGBD MYSQL. 
 
 Recursos utilizados
 
-Composer.
+Composer: é necessário  executa-lo para as rotas e autolloads.
 
 Twitter Bootstrap - http://getbootstrap.com/ Roteamento com verificação de arquivos e validação Páginas Serviços. 
 
