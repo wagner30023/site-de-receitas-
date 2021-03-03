@@ -6,12 +6,12 @@ Recursos utilizados
 
 Composer: é necessário  executa-lo para carregar as rotas e autolloads.
 
-Twitter Bootstrap - http://getbootstrap.com/ Roteamento com verificação de arquivos e validação Páginas Serviços. 
+Twitter Bootstrap - http://getbootstrap.com/ para visualização das página.
 
-Utiliza o padrão MVC E Twig.
+Utiliza o padrão MVC E Twig com rotas.
 
 
-Recursos
+obs: 
 
 para ter acesso basta ter um server instalado na sua máquina com SGBD MYSQL, ou serviço que utiliza virtualização de nível de sistema operacional para entregar software em pacotes chamados contêineres.
 
